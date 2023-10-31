@@ -1,5 +1,6 @@
 def print_main():
     print("DSD@fg")
 
-#sretfg
+    print('hkhkhkhhkhkkhkkkhkkkhh')
+#sret
 print_main()
